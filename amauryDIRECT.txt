@@ -6,3 +6,4 @@ payload:
   - DOMAIN-KEYWORD,nelreports
   - DOMAIN-SUFFIX,jsdelivr.net
   - DOMAIN-SUFFIX,ghgo.xyz
+  - DOMAIN-SUFFIX,microsoft.com
