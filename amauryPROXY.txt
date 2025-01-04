@@ -1,2 +1,3 @@
 payload:
 # personal rules
+  - DOMAIN-SUFFIX,api.cloudflare.com
