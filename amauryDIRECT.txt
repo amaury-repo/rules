@@ -9,5 +9,6 @@ payload:
   - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,verisign.com
   - DOMAIN-SUFFIX,windows.net
+  - DOMAIN-SUFFIX,windows.com
   - DOMAIN-SUFFIX,microsoftonline.com
   - DOMAIN-SUFFIX,azure.com
