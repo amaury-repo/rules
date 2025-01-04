@@ -13,3 +13,4 @@ payload:
   - DOMAIN-SUFFIX,microsoftonline.com
   - DOMAIN-SUFFIX,azure.com
   - DOMAIN-SUFFIX,skype.com
+  - DOMAIN-SUFFIX,bing.com
