@@ -15,4 +15,4 @@ payload:
   - DOMAIN-SUFFIX,azure.com
   - DOMAIN-SUFFIX,skype.com
   - DOMAIN-SUFFIX,bing.com
-  - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,aksdns.net
