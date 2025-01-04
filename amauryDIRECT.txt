@@ -18,3 +18,4 @@ payload:
   - DOMAIN-SUFFIX,aksdns.net
   - DOMAIN-SUFFIX,office.com
   - DOMAIN-SUFFIX,tampermonkey.net
+  - DOMAIN-SUFFIX,cloudflare.com
