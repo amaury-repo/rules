@@ -8,3 +8,4 @@ payload:
   - DOMAIN-SUFFIX,ghgo.xyz
   - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,verisign.com
+  - DOMAIN-SUFFIX,windows.net
