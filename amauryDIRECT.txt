@@ -1,5 +1,5 @@
 payload:
-# default
+# personal rules
   - DOMAIN-KEYWORD,safebrowsing
   - DOMAIN-KEYWORD,crashlytics
   - DOMAIN-KEYWORD,nelreports
