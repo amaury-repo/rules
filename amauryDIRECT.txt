@@ -19,3 +19,4 @@ payload:
   - DOMAIN-SUFFIX,office.com
   - DOMAIN-SUFFIX,tampermonkey.net
   - DOMAIN-SUFFIX,cloudflare.com
+  - DOMAIN-SUFFIX,azureedge.net
