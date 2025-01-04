@@ -21,3 +21,4 @@ payload:
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,azureedge.net
   - DOMAIN-SUFFIX,live.com
+  - DOMAIN-SUFFIX,deepl.com
