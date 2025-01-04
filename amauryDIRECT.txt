@@ -17,3 +17,4 @@ payload:
   - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,aksdns.net
   - DOMAIN-SUFFIX,office.com
+  - DOMAIN-SUFFIX,tampermonkey.net
