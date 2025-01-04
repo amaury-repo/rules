@@ -1,5 +1,6 @@
 payload:
 # personal rules
+  - DST-PORT,123
   - DOMAIN-SUFFIX,amaury.eu.org
   - DOMAIN-KEYWORD,safebrowsing
   - DOMAIN-KEYWORD,crashlytics
@@ -14,4 +15,3 @@ payload:
   - DOMAIN-SUFFIX,azure.com
   - DOMAIN-SUFFIX,skype.com
   - DOMAIN-SUFFIX,bing.com
-  - DOMAIN-SUFFIX,ntp.org
