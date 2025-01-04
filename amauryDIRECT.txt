@@ -16,3 +16,4 @@ payload:
   - DOMAIN-SUFFIX,skype.com
   - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,aksdns.net
+  - DOMAIN-SUFFIX,office.com
