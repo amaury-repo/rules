@@ -1,6 +1,8 @@
 payload:
 # personal rules
+  - DOMAIN-SUFFIX,amaury.eu.org
   - DOMAIN-KEYWORD,safebrowsing
   - DOMAIN-KEYWORD,crashlytics
   - DOMAIN-KEYWORD,nelreports
-  - DOMAIN-KEYWORD,amaury.eu.org
+  - DOMAIN-SUFFIX,jsdelivr.net
+  - DOMAIN,ghgo.xyz
