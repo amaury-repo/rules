@@ -28,3 +28,4 @@ payload:
   - DOMAIN-SUFFIX,gepush.com
   - DOMAIN-SUFFIX,igexin.com
   - DOMAIN-SUFFIX,umsns.com
+  - DOMAIN-SUFFIX,wskwai.com
