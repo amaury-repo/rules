@@ -33,3 +33,6 @@ payload:
   - DOMAIN-SUFFIX,snssdk.com
   - DOMAIN-SUFFIX,miaozhen.com
   - DOMAIN-SUFFIX,1rtb.com
+  - DOMAIN-SUFFIX,kskwai.com
+  - DOMAIN-SUFFIX,aliapp.org
+  - DOMAIN-SUFFIX,metowolf.com
