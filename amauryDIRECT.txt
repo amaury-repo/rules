@@ -36,3 +36,4 @@ payload:
   - DOMAIN-SUFFIX,kskwai.com
   - DOMAIN-SUFFIX,aliapp.org
   - DOMAIN-SUFFIX,metowolf.com
+  - DOMAIN-SUFFIX,fastly-edge.com
