@@ -27,3 +27,4 @@ payload:
   - DOMAIN-SUFFIX,getui.net
   - DOMAIN-SUFFIX,gepush.com
   - DOMAIN-SUFFIX,igexin.com
+  - DOMAIN-SUFFIX,umsns.com
