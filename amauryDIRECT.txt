@@ -31,3 +31,4 @@ payload:
   - DOMAIN-SUFFIX,wskwai.com
   - DOMAIN-SUFFIX,aiclk.com
   - DOMAIN-SUFFIX,snssdk.com
+  - DOMAIN-SUFFIX,miaozhen.com
