@@ -37,3 +37,6 @@ payload:
   - DOMAIN-SUFFIX,aliapp.org
   - DOMAIN-SUFFIX,metowolf.com
   - DOMAIN-SUFFIX,fastly-edge.com
+  - DOMAIN-SUFFIX,kuaishouzt.com
+  - DOMAIN-SUFFIX,synology.com
+  - DOMAIN-SUFFIX,voipraider.com
