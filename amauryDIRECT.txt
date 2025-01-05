@@ -23,3 +23,4 @@ payload:
   - DOMAIN-SUFFIX,deepl.com
   - DOMAIN-SUFFIX,tripcdn.com
   - DOMAIN-SUFFIX,cloudflare.com
+  - DOMAIN-SUFFIX,mmstat.com
