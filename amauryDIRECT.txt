@@ -51,3 +51,4 @@ payload:
   - DOMAIN-SUFFIX,steamcommunity.com
   - DOMAIN-SUFFIX,ati.com
   - DOMAIN-SUFFIX,amd.com
+  - DOMAIN-SUFFIX,microsoftapp.net
