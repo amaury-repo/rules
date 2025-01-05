@@ -1,6 +1,7 @@
 payload:
 # personal rules
   - DST-PORT,80
+  - DST-PORT,8080
   - DST-PORT,123
   - DOMAIN-SUFFIX,amaury.eu.org
   - DOMAIN-KEYWORD,safebrowsing
