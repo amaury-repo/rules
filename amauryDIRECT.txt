@@ -59,3 +59,4 @@ payload:
   - DOMAIN-SUFFIX,mob.com
   - DOMAIN-SUFFIX,dutils.com
   - DOMAIN-SUFFIX,sentry.io
+  - DOMAIN-SUFFIX,azure.net
