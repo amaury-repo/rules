@@ -27,6 +27,7 @@ payload:
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,mmstat.com
   - DOMAIN-SUFFIX,getui.net
+  - DOMAIN-SUFFIX,getui.com
   - DOMAIN-SUFFIX,gepush.com
   - DOMAIN-SUFFIX,igexin.com
   - DOMAIN-SUFFIX,umsns.com
