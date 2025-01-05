@@ -24,3 +24,4 @@ payload:
   - DOMAIN-SUFFIX,tripcdn.com
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,mmstat.com
+  - DOMAIN-SUFFIX,getui.net
