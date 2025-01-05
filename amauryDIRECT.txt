@@ -32,3 +32,4 @@ payload:
   - DOMAIN-SUFFIX,aiclk.com
   - DOMAIN-SUFFIX,snssdk.com
   - DOMAIN-SUFFIX,miaozhen.com
+  - DOMAIN-SUFFIX,1rtb.com
