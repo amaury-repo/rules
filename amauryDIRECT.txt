@@ -43,3 +43,4 @@ payload:
   - DOMAIN-SUFFIX,msn.com
   - DOMAIN-SUFFIX,office.net
   - DOMAIN-SUFFIX,msauth.net
+  - DOMAIN-SUFFIX,asus.com
