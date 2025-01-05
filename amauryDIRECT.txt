@@ -52,3 +52,4 @@ payload:
   - DOMAIN-SUFFIX,ati.com
   - DOMAIN-SUFFIX,amd.com
   - DOMAIN-SUFFIX,microsoftapp.net
+  - DOMAIN-SUFFIX,effirst.com
