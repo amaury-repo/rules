@@ -40,3 +40,6 @@ payload:
   - DOMAIN-SUFFIX,kuaishouzt.com
   - DOMAIN-SUFFIX,synology.com
   - DOMAIN-SUFFIX,voipraider.com
+  - DOMAIN-SUFFIX,msn.com
+  - DOMAIN-SUFFIX,office.net
+  - DOMAIN-SUFFIX,msauth.net
