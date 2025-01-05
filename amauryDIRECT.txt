@@ -20,7 +20,6 @@ payload:
   - DOMAIN-SUFFIX,aksdns.net
   - DOMAIN-SUFFIX,office.com
   - DOMAIN-SUFFIX,tampermonkey.net
-  - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,azureedge.net
   - DOMAIN-SUFFIX,live.com
   - DOMAIN-SUFFIX,deepl.com
