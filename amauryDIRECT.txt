@@ -16,6 +16,7 @@ payload:
   - DOMAIN-SUFFIX,azure.com
   - DOMAIN-SUFFIX,skype.com
   - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,bing.net
   - DOMAIN-SUFFIX,aksdns.net
   - DOMAIN-SUFFIX,office.com
   - DOMAIN-SUFFIX,tampermonkey.net
