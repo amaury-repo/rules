@@ -47,3 +47,5 @@ payload:
   - DOMAIN-SUFFIX,cookielaw.org
   - DOMAIN-SUFFIX,cdnst.net
   - DOMAIN-SUFFIX,ziffstatic.com
+  - DOMAIN-SUFFIX,speedtestcustom.com
+  - DOMAIN-SUFFIX,webtest.net
