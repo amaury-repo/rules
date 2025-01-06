@@ -62,3 +62,4 @@ payload:
   - DOMAIN-SUFFIX,crisp.chat
   - DOMAIN-SUFFIX,stripe.com
   - DOMAIN-SUFFIX,techlife.app
+  - DOMAIN-SUFFIX,verisign.com
