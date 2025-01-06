@@ -44,3 +44,4 @@ payload:
   - DOMAIN-SUFFIX,onetrust.com
   - DOMAIN-SUFFIX,speedtest.net
   - DOMAIN-SUFFIX,ooklaserver.net
+  - DOMAIN-SUFFIX,cookielaw.org
