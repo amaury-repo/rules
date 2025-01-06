@@ -5,6 +5,7 @@ payload:
   - DOMAIN-KEYWORD,safebrowsing
   - DOMAIN-KEYWORD,crashlytics
   - DOMAIN-KEYWORD,nelreports
+  - DOMAIN-KEYWORD,analytics
   - DOMAIN-SUFFIX,jsdelivr.net
   - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,windows.net
