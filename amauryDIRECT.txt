@@ -41,3 +41,4 @@ payload:
   - DOMAIN-SUFFIX,stripe.com
   - DOMAIN-SUFFIX,techlife.app
   - DOMAIN-SUFFIX,verisign.com
+  - DOMAIN-SUFFIX,onetrust.com
