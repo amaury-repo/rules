@@ -60,3 +60,4 @@ payload:
   - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,azure.net
   - DOMAIN-SUFFIX,crisp.chat
+  - DOMAIN-SUFFIX,stripe.com
