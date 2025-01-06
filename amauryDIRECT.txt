@@ -42,3 +42,4 @@ payload:
   - DOMAIN-SUFFIX,techlife.app
   - DOMAIN-SUFFIX,verisign.com
   - DOMAIN-SUFFIX,onetrust.com
+  - DOMAIN-SUFFIX,speedtest.net
