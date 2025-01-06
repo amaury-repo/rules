@@ -58,3 +58,4 @@ payload:
   - DOMAIN-SUFFIX,dutils.com
   - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,azure.net
+  - DOMAIN-SUFFIX,crisp.chat
