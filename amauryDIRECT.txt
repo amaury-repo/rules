@@ -49,3 +49,4 @@ payload:
   - DOMAIN-SUFFIX,ziffstatic.com
   - DOMAIN-SUFFIX,speedtestcustom.com
   - DOMAIN-SUFFIX,webtest.net
+  - DOMAIN-SUFFIX,akadns.net
