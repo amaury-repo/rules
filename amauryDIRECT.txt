@@ -50,3 +50,4 @@ payload:
   - DOMAIN-SUFFIX,speedtestcustom.com
   - DOMAIN-SUFFIX,webtest.net
   - DOMAIN-SUFFIX,akadns.net
+  - DOMAIN-SUFFIX,digicert.com
