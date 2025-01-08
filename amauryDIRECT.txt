@@ -1,11 +1,11 @@
 payload:
 # personal rules
   - DST-PORT,123
-  - DOMAIN-KEYWORD,amaury.eu.org
   - DOMAIN-KEYWORD,safebrowsing
   - DOMAIN-KEYWORD,crashlytics
   - DOMAIN-KEYWORD,nelreports
   - DOMAIN-KEYWORD,analytics
+  - DOMAIN-SUFFIX,amaury.eu.org
   - DOMAIN-SUFFIX,jsdelivr.net
   - DOMAIN-SUFFIX,deepl.com
   - DOMAIN-SUFFIX,tripcdn.com
