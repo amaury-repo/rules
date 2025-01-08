@@ -5,6 +5,7 @@ payload:
   - DOMAIN-KEYWORD,crashlytics
   - DOMAIN-KEYWORD,nelreports
   - DOMAIN-KEYWORD,analytics
+  - DOMAIN-KEYWORD,wechat
   - DOMAIN-SUFFIX,amaury.eu.org
   - DOMAIN-SUFFIX,jsdelivr.net
   - DOMAIN-SUFFIX,deepl.com
@@ -51,6 +52,4 @@ payload:
   - DOMAIN-SUFFIX,webtest.net
   - DOMAIN-SUFFIX,akadns.net
   - DOMAIN-SUFFIX,digicert.com
-  - DOMAIN-SUFFIX,wechat.com
-  - DOMAIN-SUFFIX,qq.com
   - DOMAIN-SUFFIX,lencr.org
