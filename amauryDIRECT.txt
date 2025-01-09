@@ -53,3 +53,4 @@ payload:
   - DOMAIN-SUFFIX,akadns.net
   - DOMAIN-SUFFIX,digicert.com
   - DOMAIN-SUFFIX,lencr.org
+  - DOMAIN-SUFFIX,worldssl.net
