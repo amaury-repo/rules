@@ -2,3 +2,4 @@ payload:
 # personal rules
   - DOMAIN-SUFFIX,api.cloudflare.com
   - DOMAIN-SUFFIX,steamcommunity.com
+  - DOMAIN-SUFFIX,tw
