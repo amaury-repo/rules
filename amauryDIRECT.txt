@@ -6,6 +6,7 @@ payload:
   - DOMAIN-KEYWORD,nelreports
   - DOMAIN-KEYWORD,analytics
   - DOMAIN-KEYWORD,wechat
+  - DOMAIN-KEYWORD,digicert
   - DOMAIN-SUFFIX,amaury.eu.org
   - DOMAIN-SUFFIX,jsdelivr.net
   - DOMAIN-SUFFIX,deepl.com
@@ -51,7 +52,6 @@ payload:
   - DOMAIN-SUFFIX,speedtestcustom.com
   - DOMAIN-SUFFIX,webtest.net
   - DOMAIN-SUFFIX,akadns.net
-  - DOMAIN-SUFFIX,digicert.com
   - DOMAIN-SUFFIX,lencr.org
   - DOMAIN-SUFFIX,worldssl.net
   - DOMAIN-SUFFIX,1panel.top
