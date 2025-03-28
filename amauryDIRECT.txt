@@ -8,6 +8,7 @@ payload:
   - DOMAIN-KEYWORD,wechat
   - DOMAIN-KEYWORD,digicert
   - DOMAIN-KEYWORD,globalsign
+  - DOMAIN-KEYWORD,rapidssl
   - DOMAIN-KEYWORD,siemens
   - DOMAIN-SUFFIX,amaury.eu.org
   - DOMAIN-SUFFIX,jsdelivr.net
@@ -57,3 +58,4 @@ payload:
   - DOMAIN-SUFFIX,worldssl.net
   - DOMAIN-SUFFIX,1panel.top
   - DOMAIN-SUFFIX,sectigo.com
+  - DOMAIN-SUFFIX,ocsp-certum.com
