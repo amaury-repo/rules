@@ -9,6 +9,7 @@ payload:
   - DOMAIN-KEYWORD,digicert
   - DOMAIN-KEYWORD,globalsign
   - DOMAIN-KEYWORD,rapidssl
+  - DOMAIN-KEYWORD,usertrust
   - DOMAIN-KEYWORD,siemens
   - DOMAIN-SUFFIX,amaury.eu.org
   - DOMAIN-SUFFIX,jsdelivr.net
