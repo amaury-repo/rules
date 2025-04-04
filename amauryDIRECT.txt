@@ -12,6 +12,7 @@ payload:
   - DOMAIN-KEYWORD,usertrust
   - DOMAIN-KEYWORD,siemens
   - DOMAIN-SUFFIX,amaury.eu.org
+  - DOMAIN-SUFFIX,tesla.com
   - DOMAIN-SUFFIX,jsdelivr.net
   - DOMAIN-SUFFIX,deepl.com
   - DOMAIN-SUFFIX,tripcdn.com
@@ -61,3 +62,4 @@ payload:
   - DOMAIN-SUFFIX,sectigo.com
   - DOMAIN-SUFFIX,ocsp-certum.com
   - DOMAIN-SUFFIX,nmketang.com
+  - DOMAIN-SUFFIX,dumanwu.com
