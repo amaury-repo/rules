@@ -65,3 +65,4 @@ payload:
   - DOMAIN-SUFFIX,nmketang.com
   - DOMAIN-SUFFIX,dumanwu.com
   - DOMAIN-SUFFIX,openweathermap.org
+  - DOMAIN-SUFFIX,mozilla.org
