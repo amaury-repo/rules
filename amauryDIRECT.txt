@@ -65,3 +65,4 @@ payload:
   - DOMAIN-SUFFIX,dumanwu.com
   - DOMAIN-SUFFIX,openweathermap.org
   - DOMAIN-SUFFIX,mozilla.org
+  - DOMAIN-SUFFIX,milkywayidle.com
