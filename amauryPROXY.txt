@@ -7,3 +7,4 @@ payload:
   - DOMAIN-SUFFIX,le.com
   - DOMAIN-SUFFIX,suning.com
   - DOMAIN-SUFFIX,goofish.com
+  - DOMAIN-SUFFIX,ly.com
