@@ -12,3 +12,4 @@ payload:
   - DOMAIN-SUFFIX,huxiu.com
   - DOMAIN-SUFFIX,xinhuanet.com
   - DOMAIN-SUFFIX,caixin.com
+  - DOMAIN-SUFFIX,youdao.com
