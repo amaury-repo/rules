@@ -9,3 +9,4 @@ payload:
   - DOMAIN-SUFFIX,goofish.com
   - DOMAIN-SUFFIX,ly.com
   - DOMAIN-SUFFIX,autohome.com.cn
+  - DOMAIN-SUFFIX,huxiu.com
