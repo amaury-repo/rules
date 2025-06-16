@@ -13,3 +13,4 @@ payload:
   - DOMAIN-SUFFIX,xinhuanet.com
   - DOMAIN-SUFFIX,caixin.com
   - DOMAIN-SUFFIX,youdao.com
+  - DOMAIN-SUFFIX,jd100.com
