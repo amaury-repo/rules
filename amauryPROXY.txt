@@ -4,3 +4,15 @@ payload:
   - DOMAIN-SUFFIX,steamcommunity.com
   - DOMAIN-SUFFIX,openstreetmap.org
   - DOMAIN-SUFFIX,tw
+
+  - DOMAIN-SUFFIX,le.com
+  - DOMAIN-SUFFIX,suning.com
+  - DOMAIN-SUFFIX,ly.com
+  - DOMAIN-SUFFIX,autohome.com.cn
+  - DOMAIN-SUFFIX,huxiu.com
+  - DOMAIN-SUFFIX,xinhuanet.com
+  - DOMAIN-SUFFIX,caixin.com
+  - DOMAIN-SUFFIX,youdao.com
+  - DOMAIN-SUFFIX,jd100.com
+  - DOMAIN-SUFFIX,ithome.com
+  - DOMAIN-SUFFIX,zol.com.cn
