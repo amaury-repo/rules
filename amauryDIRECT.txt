@@ -10,7 +10,6 @@ payload:
   - DOMAIN-KEYWORD,globalsign
   - DOMAIN-KEYWORD,rapidssl
   - DOMAIN-KEYWORD,usertrust
-  - DOMAIN-KEYWORD,siemens
   - DOMAIN-SUFFIX,amaury.eu.org
   - DOMAIN-SUFFIX,tesla.com
   - DOMAIN-SUFFIX,notateslaapp.com
