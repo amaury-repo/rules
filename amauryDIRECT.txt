@@ -65,7 +65,6 @@ payload:
   - DOMAIN-SUFFIX,openweathermap.org
   - DOMAIN-SUFFIX,mozilla.org
   - DOMAIN-SUFFIX,mozilla.net
-  - DOMAIN-SUFFIX,milkywayidle.com
   - DOMAIN-SUFFIX,yangcongxueyuan.com
   - DOMAIN-SUFFIX,banmaapp.com
   - DOMAIN-SUFFIX,msi.com
