@@ -62,7 +62,6 @@ payload:
   - DOMAIN-SUFFIX,ocsp-certum.com
   - DOMAIN-SUFFIX,nmketang.com
   - DOMAIN-SUFFIX,dumanwu.com
-  - DOMAIN-SUFFIX,openweathermap.org
   - DOMAIN-SUFFIX,mozilla.org
   - DOMAIN-SUFFIX,mozilla.net
   - DOMAIN-SUFFIX,yangcongxueyuan.com
