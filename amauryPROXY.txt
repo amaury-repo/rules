@@ -1,6 +1,6 @@
 payload:
 # personal rules
-  - DOMAIN-SUFFIX,api.cloudflare.com
+  - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,steamcommunity.com
   - DOMAIN-SUFFIX,openstreetmap.org
   - DOMAIN-SUFFIX,tw
