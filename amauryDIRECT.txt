@@ -68,3 +68,4 @@ payload:
   - DOMAIN-SUFFIX,banmaapp.com
   - DOMAIN-SUFFIX,msi.com
   - DOMAIN-SUFFIX,milkywayidle.com
+  - DOMAIN-SUFFIX,hack.chat
