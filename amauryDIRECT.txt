@@ -67,3 +67,4 @@ payload:
   - DOMAIN-SUFFIX,yangcongxueyuan.com
   - DOMAIN-SUFFIX,banmaapp.com
   - DOMAIN-SUFFIX,msi.com
+  - DOMAIN-SUFFIX,milkywayidlecn.com
