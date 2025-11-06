@@ -3,3 +3,4 @@ payload:
   - DOMAIN-SUFFIX,steamcommunity.com
   - DOMAIN-SUFFIX,openstreetmap.org
   - DOMAIN-SUFFIX,tw
+  - DOMAIN-SUFFIX,milkywayidle.com
