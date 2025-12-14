@@ -67,6 +67,7 @@ payload:
   - DOMAIN-SUFFIX,yangcongxueyuan.com
   - DOMAIN-SUFFIX,banmaapp.com
   - DOMAIN-SUFFIX,msi.com
+  - DOMAIN-SUFFIX,hack.chat
   - DOMAIN-SUFFIX,milkywayidlecn.com
   - DOMAIN-SUFFIX,appsflyersdk.com
   - DOMAIN-SUFFIX,playhardlab.com
