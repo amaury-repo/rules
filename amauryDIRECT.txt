@@ -69,6 +69,3 @@ payload:
   - DOMAIN-SUFFIX,msi.com
   - DOMAIN-SUFFIX,hack.chat
   - DOMAIN-SUFFIX,milkywayidlecn.com
-  - DOMAIN-SUFFIX,appsflyersdk.com
-  - DOMAIN-SUFFIX,playhardlab.com
-  - DOMAIN-SUFFIX,lockincomp.com
