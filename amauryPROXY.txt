@@ -10,3 +10,4 @@ payload:
   - DOMAIN-SUFFIX,appsflyersdk.com
   - DOMAIN-SUFFIX,applovin.com
   - DOMAIN-SUFFIX,app-measurement.com
+  - DOMAIN-SUFFIX,doubleclick.net
