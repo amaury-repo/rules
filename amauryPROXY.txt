@@ -5,7 +5,6 @@ payload:
   - DOMAIN-SUFFIX,tw
   - DOMAIN-SUFFIX,milkywayidle.com
 # Google ADs
-  - DOMAIN-SUFFIX,google.com
   - DOMAIN-SUFFIX,doubleclick.net
   - DOMAIN-SUFFIX,googlesyndication.com
   - DOMAIN-SUFFIX,googleadservices.com
