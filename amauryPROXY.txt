@@ -9,8 +9,5 @@ payload:
   - DOMAIN-SUFFIX,playhardlab.com
   - DOMAIN-SUFFIX,appsflyersdk.com
   - DOMAIN-SUFFIX,applovin.com
-  - DOMAIN-SUFFIX,app-measurement.com
   - DOMAIN-SUFFIX,doubleclick.net
-  - DOMAIN-SUFFIX,unity3d.com
   - DOMAIN-SUFFIX,googlesyndication.com
-  - DOMAIN-SUFFIX,adjust.com
