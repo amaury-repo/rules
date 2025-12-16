@@ -11,3 +11,4 @@ payload:
   - DOMAIN-SUFFIX,applovin.com
   - DOMAIN-SUFFIX,app-measurement.com
   - DOMAIN-SUFFIX,doubleclick.net
+  - DOMAIN-SUFFIX,unity3d.com
