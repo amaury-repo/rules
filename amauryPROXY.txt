@@ -4,9 +4,3 @@ payload:
   - DOMAIN-SUFFIX,openstreetmap.org
   - DOMAIN-SUFFIX,tw
   - DOMAIN-SUFFIX,milkywayidle.com
-# google ads
-  - DOMAIN-SUFFIX,doubleclick.net
-  - DOMAIN-SUFFIX,googlesyndication.com
-  - DOMAIN-SUFFIX,googleadservices.com
-  - DOMAIN-SUFFIX,applovin.com
-  - DOMAIN-SUFFIX,applvn.com
