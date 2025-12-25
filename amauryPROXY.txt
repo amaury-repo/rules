@@ -18,3 +18,4 @@ payload:
   - DOMAIN-SUFFIX,yeahdsp.com
   - DOMAIN-SUFFIX,zmaticoo.com
   - DOMAIN-SUFFIX,adsappier.com
+  - DOMAIN-SUFFIX,lockincomp.com
