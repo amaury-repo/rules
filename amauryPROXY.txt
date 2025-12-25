@@ -12,3 +12,6 @@ payload:
   - DOMAIN-SUFFIX,applvn.com
   - DOMAIN-SUFFIX,playhardlab.com
   - DOMAIN-SUFFIX,appsflyersdk.com
+  - DOMAIN-SUFFIX,vungle.com
+  - DOMAIN-SUFFIX,yeahdsp.com
+  - DOMAIN-SUFFIX,zmaticoo.com
