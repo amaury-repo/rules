@@ -7,6 +7,7 @@ payload:
 # android
   - DOMAIN-SUFFIX,android.com
   - DOMAIN-SUFFIX,doubleclick.net
+  - DOMAIN-SUFFIX,doubleverify.com
   - DOMAIN-SUFFIX,googlesyndication.com
   - DOMAIN-SUFFIX,googleadservices.com
   - DOMAIN-SUFFIX,applovin.com
