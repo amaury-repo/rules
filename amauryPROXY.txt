@@ -17,3 +17,4 @@ payload:
   - DOMAIN-SUFFIX,vungle.com
   - DOMAIN-SUFFIX,yeahdsp.com
   - DOMAIN-SUFFIX,zmaticoo.com
+  - DOMAIN-SUFFIX,adsappier.com
