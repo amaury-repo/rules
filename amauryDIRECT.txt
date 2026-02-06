@@ -1,6 +1,5 @@
 payload:
 # personal rules
-  - DST-PORT,123
   - DOMAIN-KEYWORD,safebrowsing
   - DOMAIN-KEYWORD,crashlytics
   - DOMAIN-KEYWORD,nelreports
