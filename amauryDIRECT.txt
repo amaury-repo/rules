@@ -60,3 +60,4 @@ payload:
   - '+.hack.chat'
   - '+.milkywayidlecn.com'
   - '+.oracle.com'
+  - '+.88xiaoshuo.net'
