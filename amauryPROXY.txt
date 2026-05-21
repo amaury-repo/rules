@@ -1,13 +1,13 @@
 payload:
   # personal rules
-  - '.steamcommunity.com'
-  - '.openstreetmap.org'
-  - '.tw'
-  - '.milkywayidle.com'
-  - '.docker.io'
+  - '+.steamcommunity.com'
+  - '+.openstreetmap.org'
+  - '+.tw'
+  - '+.milkywayidle.com'
+  - '+.docker.io'
   # android
-  - '.android.com'
-  - '.doubleclick.net'
-  - '.doubleverify.com'
-  - '.googlesyndication.com'
-  - '.googleadservices.com'
+  - '+.android.com'
+  - '+.doubleclick.net'
+  - '+.doubleverify.com'
+  - '+.googlesyndication.com'
+  - '+.googleadservices.com'
