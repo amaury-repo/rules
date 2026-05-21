@@ -60,3 +60,5 @@ payload:
   - '.hack.chat'
   - '.milkywayidlecn.com'
   - '.oracle.com'
+  - '.yangcongxueyuan.com'
+  - '.banmaapp.com'
