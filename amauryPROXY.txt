@@ -1,13 +1,13 @@
 payload:
-# personal rules
-  - DOMAIN-SUFFIX,steamcommunity.com
-  - DOMAIN-SUFFIX,openstreetmap.org
-  - DOMAIN-SUFFIX,tw
-  - DOMAIN-SUFFIX,milkywayidle.com
-  - DOMAIN-SUFFIX,docker.io
-# android
-  - DOMAIN-SUFFIX,android.com
-  - DOMAIN-SUFFIX,doubleclick.net
-  - DOMAIN-SUFFIX,doubleverify.com
-  - DOMAIN-SUFFIX,googlesyndication.com
-  - DOMAIN-SUFFIX,googleadservices.com
+  # personal rules
+  - '.steamcommunity.com'
+  - '.openstreetmap.org'
+  - '.tw'
+  - '.milkywayidle.com'
+  - '.docker.io'
+  # android
+  - '.android.com'
+  - '.doubleclick.net'
+  - '.doubleverify.com'
+  - '.googlesyndication.com'
+  - '.googleadservices.com'
