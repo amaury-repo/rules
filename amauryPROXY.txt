@@ -12,3 +12,4 @@ payload:
   - '+.googlesyndication.com'
   - '+.googleadservices.com'
   - '+.playhardlab.com'
+  - '+.appsflyersdk.com'
