@@ -4,6 +4,7 @@ payload:
   - '+.openstreetmap.org'
   - '+.tw'
   - '+.us'
+  - '+.ai'
   - '+.milkywayidle.com'
   - '+.docker.io'
   # android
