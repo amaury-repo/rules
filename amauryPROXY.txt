@@ -11,3 +11,4 @@ payload:
   - '+.doubleverify.com'
   - '+.googlesyndication.com'
   - '+.googleadservices.com'
+  - '+.playhardlab.com'
