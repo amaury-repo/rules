@@ -60,9 +60,6 @@ payload:
   - '+.hack.chat'
   - '+.milkywayidlecn.com'
   - '+.oracle.com'
-  - '+.88xiaoshuo.net'
-  - '+.jcxs.cc'
-  - '+.jinchanyun.com'
   - '+.jiqy5a.com'
   - '+.zq1iku.com'
   - '+.un04tc.com'
@@ -93,3 +90,7 @@ payload:
   - '+.shiyifacaisalzc.com'
   - '+.ds26y04m10d.top'
   - '+.maolmsdkzf.com'
+  # reader
+  - '+.88xiaoshuo.net'
+  - '+.jcxs.cc'
+  - '+.jinchanyun.com'
