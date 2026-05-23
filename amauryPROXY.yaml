@@ -7,6 +7,10 @@ payload:
   - '+.ai'
   - '+.milkywayidle.com'
   - '+.docker.io'
+  - '+.joyreactor.cc'
+  - '+.mosbymods.de'
+  - '+.usdtvpn.com'
+  - '+.skk.moe'
   # android
   - '+.android.com'
   - '+.doubleclick.net'
