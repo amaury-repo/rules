@@ -2,6 +2,7 @@ payload:
   # personal rules
   - '+.amaury.eu.org'
   - '+.safebrowsing.googleapis.com'
+  - '+.qq.com'
   - '+.tesla.com'
   - '+.notateslaapp.com'
   - '+.deepl.com'
