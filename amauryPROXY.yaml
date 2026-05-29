@@ -11,9 +11,5 @@ payload:
   - '+.mosbymods.de'
   - '+.usdtvpn.com'
   - '+.skk.moe'
-  # android
-  - '+.android.com'
-  - '+.doubleverify.com'
-  - '+.googlesyndication.com'
   - '+.playhardlab.com'
   - '+.appsflyersdk.com'
