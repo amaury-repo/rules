@@ -13,9 +13,7 @@ payload:
   - '+.skk.moe'
   # android
   - '+.android.com'
-  - '+.doubleclick.net'
   - '+.doubleverify.com'
   - '+.googlesyndication.com'
-  - '+.googleadservices.com'
   - '+.playhardlab.com'
   - '+.appsflyersdk.com'
