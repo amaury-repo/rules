@@ -94,6 +94,8 @@ payload:
   - '+.maolmsdkzf.com'
   - '+.kongregate.com'
   - '+.grafana.com'
+  - '+.play2048.co'
+  - '+.equateplus.com'
   # book source
   - '+.88xiaoshuo.net'
   - '+.jcxs.cc'
