@@ -223,6 +223,7 @@ payload:
   - '+.yuptracker-eu.gaijinent.com'
   - '+.zer0day.ch'
   - '+.tracker.openwebtorrent.com'
+  - '+.tracker.openbittorrent.com'
   # book source
   - '+.88xiaoshuo.net'
   - '+.jcxs.cc'
