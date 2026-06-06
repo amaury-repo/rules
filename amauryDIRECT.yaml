@@ -35,7 +35,6 @@ payload:
   - '+.sentry.io'
   - '+.crisp.chat'
   - '+.stripe.com'
-  - '+.techlife.app'
   - '+.verisign.com'
   - '+.onetrust.com'
   - '+.speedtest.net'
