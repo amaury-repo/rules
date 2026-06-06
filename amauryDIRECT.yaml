@@ -93,6 +93,8 @@ payload:
   - '+.play2048.co'
   - '+.equateplus.com'
   - '+.lancens.com'
+  - '+.wangmoyu.com'
+  - '+.toto.im'
   # tracker
   - '+.004430.xyz'
   - '+.1337.abcvg.info'
@@ -457,7 +459,6 @@ payload:
   - '+.b5200.net'
   - '+.babahome.net'
   - '+.badaoge.org'
-  - '+.baidu.com'
   - '+.baiheks.com'
   - '+.baishuzhai.com'
   - '+.baizixs.com'
