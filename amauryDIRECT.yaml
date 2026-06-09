@@ -1,6 +1,8 @@
 payload:
   # personal rules
   - '+.amaury.eu.org'
+  - '+.argotunnel.com'
+  - '+.api.cloudflare.com'
   - '+.tesla.com'
   - '+.notateslaapp.com'
   - '+.deepl.com'
@@ -68,7 +70,6 @@ payload:
   - '+.ubuntu.com'
   - '+.unity3d.com'
   - '+.bluestacks.com'
-  - '+.argotunnel.com'
   - '+.siemens.com'
   - '+.rumdash.io'
   - '+.poki.com'
