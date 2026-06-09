@@ -4,6 +4,7 @@ payload:
   - '+.argotunnel.com'
   - '+.api.cloudflare.com'
   - '+.tesla.com'
+  - '+.open-meteo.com'
   - '+.notateslaapp.com'
   - '+.deepl.com'
   - '+.tripcdn.com'
