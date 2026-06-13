@@ -1,7 +1,7 @@
 payload:
   # personal rules
   - '+.amaury.eu.org'
-  - '+.argotunnel.com'
+  - '+.v2.argotunnel.com'
   - '+.api.cloudflare.com'
   - '+.tesla.com'
   - '+.open-meteo.com'
