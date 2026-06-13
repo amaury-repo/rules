@@ -105,6 +105,7 @@ payload:
   - '+.ubixioe.com'
   - '+.tanwuya.com'
   - '+.qnapdemo.com'
+  - '+.aizhantj.com'
   # tracker
   - '+.004430.xyz'
   - '+.1337.abcvg.info'
@@ -235,6 +236,10 @@ payload:
   - '+.tracker.openbittorrent.com'
   # book source
   - '+.88xiaoshuo.net'
+  - '+.hnnyygzs.com'
+  - '+.bequke.com'
+  - '+.biqugeguanwang.com'
+  - '+.77comic.com'
   - '+.jcxs.cc'
   - '+.jinchanyun.com'
   - '+.00ui.cc'
