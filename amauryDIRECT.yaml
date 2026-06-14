@@ -2,7 +2,7 @@ payload:
   # personal rules
   - '+.amaury.eu.org'
   - '+.argotunnel.com'
-  - '+.api.cloudflare.com'
+  - '+.cloudflare.com'
   - '+.tesla.com'
   - '+.open-meteo.com'
   - '+.notateslaapp.com'
