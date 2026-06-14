@@ -39,6 +39,7 @@ payload:
   - '+.verisign.com'
   - '+.onetrust.com'
   - '+.speedtest.net'
+  - '+.homeplus.net.tw'
   - '+.ooklaserver.net'
   - '+.cookielaw.org'
   - '+.cdnst.net'
