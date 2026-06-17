@@ -3,6 +3,7 @@ payload:
   - '+.amaury.eu.org'
   - '+.argotunnel.com'
   - '+.cloudflare.com'
+  - '+.cloudfront.net'
   - '+.tesla.com'
   - '+.open-meteo.com'
   - '+.notateslaapp.com'
