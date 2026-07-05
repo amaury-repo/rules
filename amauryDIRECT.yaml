@@ -2,6 +2,7 @@ payload:
   # personal rules
   - '+.amaury.eu.org'
   - '+.argotunnel.com'
+  - '+.cloudfront.net'
   - '+.utorrent.com'
   - '+.tesla.com'
   - '+.open-meteo.com'
