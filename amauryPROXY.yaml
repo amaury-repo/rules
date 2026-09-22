@@ -1,6 +1,7 @@
 payload:
   # personal rules
   - '+.steamcommunity.com'
+  - '+.steampowered.com'
   - '+.openstreetmap.org'
   - '+.cnbeta.com.tw'
   - '+.tbcache.us'
